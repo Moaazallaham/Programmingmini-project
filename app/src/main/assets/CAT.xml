@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<CATEGORIES>
+	<MUSIC>
+		<M1>
+			What are humans audibility limits?
+		</M1>
+		<M2>
+			What is the longest title of a movie song?
+		</M2>
+		<M3>
+			What title has the longest song of the world?
+		</M3>
+		<M4>
+			Who built the first violin?
+		</M4>
+		<M5>
+			How many keys does a typical modern piano have?
+		</M5>
+	</MUSIC>
+	<ANIMAL>
+		<M1>
+			How many hearts does octopus have?
+		</M1>
+		<M2>
+			 What is the longevity of a ladybug?
+		</M2>
+		<M3>
+			What is the name of the biggest land mammal living ever?
+		</M3>
+		<M4>
+			What is the name of the bird able to fly backwards?
+		</M4>
+		<M5>
+			Do animals have different blood types?
+		</M5>
+	</ANIMAL>
+	<NATURE>
+		<M1>
+			What is the average length and diameter of the ordinary lightning?
+		</M1>
+		<M2>
+			How many potentially inactive volcanoes is located in Alaska?
+		</M2>
+		<M3>
+			What is the oldest tree in the world?
+		</M3>
+		<M4>
+			 Is peanut a nut?
+		</M4>
+		<M5>
+			 What causes a double rainbow?
+		</M5>
+	</NATURE>
+	<SPACE>
+		<M1>
+			Who set up a camera showing the first step of a man on the moon?
+		</M1>
+		<M2>
+			Where does the cosmos begin officially?
+		</M2>
+		<M3>
+			Why is the skye blue?
+		</M3>
+		<M4>
+			Which planet has the biggest amount of moons and how many?
+		</M4>
+		<M5>
+			What was the name of the first woman who flew into space?
+		</M5>
+	</SPACE>
+	<FILMS>
+		<M1>
+			Which place did Charlie Chaplin got in the competition for his own double?
+		</M1>
+		<M2>
+			 What was the name of the first movie?
+		</M2>
+		<M3>
+			How much did it cost to produce the world's most expensive film? What's the title?
+		</M3>
+		<M4>
+			Which year was Yoda born?
+		</M4>
+		<M5>
+			Where is the biggest screen movie in the world?
+		</M5>
+	</FILMS>
+	<RANDOM>
+		<M1>
+			What is the name of the lightest material on earth?
+		</M1>
+		<M2>
+			 How many people in the world know Coca Cola's recipe?
+		</M2>
+		<M3>
+			How long was the longest confirmed hiccup?
+		</M3>
+		<M4>
+			What library has the most books?
+		</M4>
+		<M5>
+			How many rooms are there in the White House?
+		</M5>
+	</RANDOM>
+    <SPORT>
+        <M1>
+            What is the name of the only sport played on Moon?
+        </M1>
+        <M2>
+            Who was the first woman to win a gold medal in the Olympics?
+
+        </M2>
+        <M3>
+            How long did the longest Olympic Games last?
+        </M3>
+        <M4>
+            What is the purpose of the golf ball dimples?
+
+        </M4>
+        <M5>
+            How many people can the largest football stadium in the world store?
+        </M5>
+    </SPORT>
+    <FAMOUS>
+        <M1>
+            Under what circumstances did Alfred Nobel establish the Nobel Prize?
+
+        </M1>
+        <M2>
+            What was Elvis Presley doing for living before becoming a singer?
+        </M2>
+        <M3>
+            At what age did Albert Einstein start reading?
+        </M3>
+        <M4>
+            How many paintings did Vincent Van Gogh sold during his life?
+        </M4>
+        <M5>
+            What was the real name of Freddie Mercury?
+        </M5>
+    </FAMOUS>
+    <FOOD>
+        <M1>
+            What vegetable was carved before pumpkins?
+
+        </M1>
+        <M2>
+            Why lemon is so sour?
+        </M2>
+        <M3>
+            What thing makes salmon meat pink?
+        </M3>
+        <M4>
+            What was the name of first fast-food restaurant?
+        </M4>
+        <M5>
+            How much is the most expensive coffee in the world?
+        </M5>
+    </FOOD>
+</CATEGORIES>

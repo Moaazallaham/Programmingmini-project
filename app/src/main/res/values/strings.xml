@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Programming mini-project</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_infopage">Infopage</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_musiccatagory">musiccatagory</string>
+    <string name="title_activity_funcategory">Funcategory</string>
+    <string name="title_activity_spacecatagory">spacecatagory</string>
+    <string name="title_activity_floracatagory">floracatagory</string>
+    <string name="title_activity_filmcatagory">filmcatagory</string>
+    <string name="title_activity_randomcatagory">randomcatagory</string>
+    <string name="title_activity_animalcategory">animalcategory</string>
+    <string name="title_activity_foodcategory">foodcategory</string>
+    <string name="title_activity_famouscategory">famouscategory</string>
+    <string name="title_activity_sportcategory">sportcategory</string>
+</resources>

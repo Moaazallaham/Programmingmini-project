@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mike.programmingmini_project">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Homepage"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Infopage"
+            android:label="@string/title_activity_infopage"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Settings"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".musiccatagory"
+            android:label="@string/title_activity_musiccatagory"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".spacecatagory"
+            android:label="@string/title_activity_spacecatagory"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".naturecatagory"
+            android:label="@string/title_activity_floracatagory"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".filmcatagory"
+            android:label="@string/title_activity_filmcatagory"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".randomcatagory"
+            android:label="@string/title_activity_randomcatagory"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".animalcategory"
+            android:label="@string/title_activity_animalcategory"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".foodcategory"
+            android:label="@string/title_activity_foodcategory"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".famouscategory"
+            android:label="@string/title_activity_famouscategory"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".sportcategory"
+            android:label="@string/title_activity_sportcategory"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>
